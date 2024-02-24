@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kedai-kopi/static/css/main.b5f6abd3.css",
+    "main.js": "/kedai-kopi/static/js/main.d99a3d13.js",
+    "static/media/rekomendasi-1.jpg": "/kedai-kopi/static/media/rekomendasi-1.b654f245ccf327f0e2c4.jpg",
+    "static/media/hero-section.jpg": "/kedai-kopi/static/media/hero-section.fb08b6d6d109945ad687.jpg",
+    "static/media/expresso.jpg": "/kedai-kopi/static/media/expresso.08f5f339bdd3185147af.jpg",
+    "static/media/about-us.jpg": "/kedai-kopi/static/media/about-us.b5279b2a24e19f720702.jpg",
+    "index.html": "/kedai-kopi/index.html",
+    "main.b5f6abd3.css.map": "/kedai-kopi/static/css/main.b5f6abd3.css.map",
+    "main.d99a3d13.js.map": "/kedai-kopi/static/js/main.d99a3d13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f6abd3.css",
+    "static/js/main.d99a3d13.js"
+  ]
+}
